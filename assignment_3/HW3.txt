@@ -1,0 +1,23 @@
+1. Noise removal - fce(salt_peppr noise).bmp 이미지를 활용하여 아래 3가지 필터링을 적용 후 결과를 비교분석 하시오
+
+ 1) Average filtering 적용 결과
+
+ 2) Gaussian filtering 적용 결과
+
+ 3) Median filtering 적용 결과
+
+
+
+2. Noise removal - Copy of Lena-Gaussian-noise2.jpg 이미지를 활용하여 1번의 1),2),3) 수행한 후 결과 비교분석
+
+
+
+3. flower.bmp 이용하여 다음을 수행하고 결과 비교 분석
+
+ 1) sobel 적용 후 엣지 검출
+
+ 2) prewitt 적용 후 엣지 검출
+
+ 3) canny 적용 후 엣지 검출
+
+ 4) robert cross 적용 후 엣지 검출
